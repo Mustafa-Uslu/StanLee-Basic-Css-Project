@@ -65,7 +65,7 @@ li{
 
 }
 #footer{
-    border:2px solid red ;
+    /* border:2px solid red ; */
     font-size: 2rem;
     padding: 2rem;
     text-align: center;
